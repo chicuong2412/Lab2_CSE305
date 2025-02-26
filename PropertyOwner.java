@@ -6,5 +6,5 @@ import java.util.List;
 public class PropertyOwner {
 
     User User;
-    List<listOfProperties> list;
+    // List<listOfProperties> list;
 }
